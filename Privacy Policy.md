@@ -4,7 +4,7 @@ Effective Date: May 25, 2018
 
 This Privacy Policy describes
 
-* The ways we collect personal data about you and why collect it
+* The ways we collect personal data about you and why we collect it
 
 * How your personal data is used
 
@@ -124,7 +124,7 @@ Our Service is global by nature and your data can therefore be transferred to an
 
 ### YOUR RIGHTS AND OPTIONS
 
-Opt-out of marketing emails and other direct marketing
+#### Opt-out of marketing emails and other direct marketing
 
 You may opt-out of receiving promotional communications, such as marketing emails from us by following the instructions in such communications.
 
