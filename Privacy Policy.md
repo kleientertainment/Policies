@@ -126,7 +126,7 @@ Our Service is global by nature and your data can therefore be transferred to an
 
 #### Opt-out of marketing emails and other direct marketing
 
-You may opt-out of receiving promotional communications, such as marketing emails from us by following the instructions in such communications.
+You may opt-out of receiving promotional communications, such as marketing emails from us by following the instructions in such communications. You can always withdraw your consent, for example by clicking the unsubscribe link on an email or opting out of sending data in-game.
 
 #### Access the personal data we hold about you
 
@@ -134,7 +134,7 @@ If you request, we will provide you a copy of your personal data in an electroni
 
 #### Your other rights
 
-You also have the right to correct your data, have your data deleted, object how we use or share your data, and restrict how we use or share your data. You can always withdraw your consent, for example by clicking the unsubscribe link on an email or opting out of sending data in-game..
+You also have the right to correct your data, have your data deleted, object how we use or share your data, and restrict how we use or share your data. 
 
 Requests may be submitted to legal@kleientertainment.com - We will respond to all requests, inquiries or concerns within thirty (30) days.
 
